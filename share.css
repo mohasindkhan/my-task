@@ -1,0 +1,545 @@
+body
+{
+	overflow-x: hidden;
+}
+
+/* ======================= TOP SECTION ================================================= */
+
+#share-page-section
+{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	width: 360px;
+	height: 980px;
+	background-color: #F0F3F5;
+}
+
+.share-page-top-section
+{
+	width: 360px;
+	height: 56px;
+	background-color:#7B42F6;
+}
+
+.share-page-top-section .okie
+{
+	padding: 10px 0 0 10px;
+}
+
+.share-page-top-section .bell
+{
+	padding: 10px 0 0 10px;
+}
+
+.fa-bars
+{
+	font-size: 20px;
+}
+
+.fa-bell
+{
+	margin: 0 0 0 0;
+	padding-left: 200px;
+	color: #fff;
+	font-size: 26px;
+}
+
+.share-page-top-section h2
+{
+	margin: 5px;
+	font-family: "Times new roman";
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 24px;
+	color: #fff;
+}
+
+/* ======================= TOP SECTION ================================================= */
+
+
+/* ======================= STATS SECTION ================================================= */
+
+.stats-section
+{
+	margin: 20px 0;
+}
+
+.stats-text
+{
+	padding: 0 15px;
+	color: #205284;
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 26px;
+}
+
+/* ======================= STATS SECTION ================================================= */
+
+
+/* ======================= STATS MID SECTION ============================================= */
+
+.stats-mid-section
+{
+	margin: 0 0 0 15px;
+}
+
+.earning
+{
+	margin: 0 0 0 10px;
+	padding: 10px;
+	width: 160px;
+	height: 124px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+}
+
+.earning-icon
+{
+	margin: 10px 0;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.fa-hand-holding-usd
+{
+	color: #F2C94C;
+	font-size: 30px;
+}
+
+.earning-det
+{
+	text-align: center;
+	color: #205284;
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+
+.earning-text
+{
+	text-align: center;
+	color: #C6D0EB;
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+
+
+
+.views
+{
+	margin: 0 0 0 10px;
+	padding: 10px;
+	width: 160px;
+	height: 124px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+}
+
+.views-icon
+{
+	margin: 10px 0;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.views .fa-eye
+{
+	color: #7B42F6;
+	font-size: 30px;
+}
+
+.views-cont
+{
+	text-align: center;
+}
+
+.views-det
+{
+	text-align: center;
+	color: #205284;
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+
+.views-text
+{
+	text-align: center;
+	color: #C6D0EB;
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+
+
+
+.diwali
+{
+	margin: 10px 0 0 10px;
+	padding: 10px;
+	width: 160px;
+	height: 124px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+}
+
+.diwali-icon
+{
+	margin: 10px 0;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.fa-circle
+{
+	color: #EB5757;
+	font-size: 30px;
+}
+
+.diwali-cont
+{
+	text-align: center;
+}
+
+.diwali-det
+{
+	color: #205284;
+	font-size: 16px;
+	font-family: "Times New Roman";
+	font-style: normal;
+}
+
+.diwali-text
+{
+	color: #C6D0EB;
+	font-size: 18px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+
+
+.prize
+{
+	margin: 10px 0 0 10px;
+	padding: 10px;
+	width: 160px;
+	height: 124px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+}
+
+.prize-icon
+{
+	margin: 10px 0;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.fa-award
+{
+	color: #14F1D9;
+	font-size: 30px;
+}
+
+.prize-cont
+{
+	text-align: center;
+}
+
+.prize-det
+{
+	color: #205284;
+	font-size: 16px;
+	font-family: "Times New Roman";
+	font-style: normal;
+}
+
+.prize-text
+{
+	color: #C6D0EB;
+	font-size: 18px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+/* ======================= STATS MID SECTION ============================================= */
+
+
+/* ======================= PROGRESS SECTION ============================================= */
+
+.progress-section
+{
+	margin: 20px 20px;
+	width: 320px;
+	height: 120px;
+	background: #FFFFFF;
+	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+	border-radius: 4px;
+}
+
+.progress-header-text
+{
+	padding: 10px 0 0 10px;
+	color: #205284;
+	font-size: 16px;
+	font-family: Montserrat;
+	font-style: normal;
+	text-align: left;
+}
+
+.eye-progress
+{
+	margin-top: 10px;
+}
+
+.eye-text
+{
+	margin: 0 0 0 20px;
+	color: #205284;
+	font-size: 12px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+.eye-text1
+{
+	margin: 0 0 0 15px;
+	color: #C6D0EB;
+	font-size: 12px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+.fa-eye
+{
+	margin: 0 0 0 8px;
+	color: #205284;
+	font-size: 16px;
+}
+
+.progress
+{
+	margin: 5px 0;
+	height: 2px;
+	color: #205284;
+}
+
+.rupee-progress
+{
+	margin-top: 10px;
+}
+
+.fa-rupee-sign
+{
+	margin: 0 8px 0 10px;
+	color: #205284;
+	font-size: 16px;
+}
+
+.rupee-text
+{
+	margin: 0 0 0 20px;
+	color: #205284;
+	font-size: 12px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+.rupee-text1
+{
+	margin: 0 0 0 20px;
+	color: #C6D0EB;
+	font-size: 12px;
+	font-family: Montserrat;
+	font-style: normal;
+}
+
+/* ======================= PROGRESS SECTION ============================================= */
+
+
+/* ======================= SHARABLE LINKS SECTION ============================================= */
+
+.sharable-links-header
+{
+	margin: 10px 0 0 10px;
+	color: #205284;
+	font-size: 24px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.sharable-links-section
+{
+	margin: 10px auto;
+	width: 328px;
+	height: 370px;
+	background-color: #fff;
+	border-radius: 4px;
+	box-shadow: 0px 0px rgba(0, 0, 0, 0.15);
+}
+
+.popular-link
+{
+	padding: 20px 48px;
+	color: #205284;
+	background-color: #fff;
+	font-size: 20px;
+	text-align: center;
+	font-family: Montserrat;
+	text-decoration: none;
+}
+
+.generate-link
+{
+	padding: 20px 48px;
+	color: #205284;
+	background-color: #C6D0EB;
+	font-size: 20px;
+	text-align: center;
+	font-family: Montserrat;
+	text-decoration: none;
+	border-top-right-radius: 4px;
+}
+
+#sharable-pic
+{
+	width: 80px;
+	height: 45px;
+}
+
+.sharerow
+{
+	margin: 0 5px 0 5px;
+}
+
+.sharecol
+{
+	margin: 0 10px 0 10px;
+}
+
+.share-text
+{
+	color: #205284;
+	font-size: 20px;
+	font-family: Montserrat;
+}
+
+.share-desc
+{
+	margin-top: -8%;
+	color: #C6D0EB;
+	font-size: 16px;
+	font-family: Montserrat;
+}
+
+#share-link
+{
+	margin-left: 5px;
+	color: #205284;
+	font-size: 28px;
+	line-height: 36px;
+	text-align: right;
+}
+
+/* ======================= SHARABLE LINKS SECTION ============================================= */
+
+/*.sharable-section h4
+{
+	margin: 20px 0 0 20px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	font-size: 24px;
+	color: #205284;
+}
+
+.sharable-section .sharable-mid-section
+{
+	margin: 20px;
+	width: 328px;
+	height: 338px;
+	background: #FFFFFF;
+	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+	border-radius: 4px;
+}
+
+.sharable-mid-section .popular
+{
+	margin: 10px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	font-size: 24px;
+	text-align: center;
+	color: #205284;
+}
+
+.sharable-mid-section .generate
+{
+	margin: 0;
+	padding: 10px 15px 10px 12px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	font-size: 24px;
+	text-align: center;
+	color: #205284;
+	background: #C6D0EB;
+}
+
+.sharable-img-section #imgs
+{
+	width: 80px;
+	height: 45px;
+	border: 1px solid;
+}
+
+.sharable-img-section .heading
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 16px;
+	color: #205284;
+}
+
+.sharable-img-section .desc
+{
+	top: -20%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 12px;
+	color: #C6D0EB;
+}
+
+.sharable-img-section #share
+{
+	color: #205284;
+}*/
+
+
+@media(max-width: 500px)
+{
+
+	.stats-mid-section
+	{
+		margin: 0 auto;
+	}
+
+}

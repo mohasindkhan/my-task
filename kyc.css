@@ -1,0 +1,343 @@
+/* ======================= TOP SECTION ================================================= */
+
+#kyc-details-section
+{
+	margin: 0 0 0 0;
+	width: 360px;
+	height: 805px;
+	background-color: #F0F3F5;
+}
+
+.kyc-details-top-section
+{
+	width: 360px;
+	height: 120px;
+	background-image: linear-gradient(to right,blue,violet);
+}
+
+.kyc-details-top-section .okie
+{
+	padding: 10px 0 0 10px;
+}
+
+.kyc-details-top-section .bell
+{
+	padding: 10px 0 0 10px;
+}
+
+.fa-bars
+{
+	font-size: 20px;
+}
+
+.fa-bell
+{
+	margin: 3px 0 0 0;
+	padding-left: 200px;
+	color: #fff;
+	font-size: 26px;
+}
+
+.kyc-details-top-section h2
+{
+	margin: 5px;
+	font-family: "Times new roman";
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 24px;
+	color: #fff;
+}
+
+/* ======================= TOP SECTION ================================================= */
+
+
+/* ======================= FORM SECTION ================================================= */
+
+.kyc-form-section
+{
+	margin: -16% 0 0 8px;
+	width: 344px;
+	height: 685px;
+	background-color: #fff;
+	box-shadow: 0px, 15px rgba(0, 0, 0, 0.15);
+	border-radius: 10px;
+}
+
+.kyc-text-header
+{
+	margin: 10px 0 0 20px;
+	color: #205284;
+	font-size: 24px;
+	font-family: "Montserrat";
+	font-weight: bold;
+	float: left;
+}
+
+.fa-arrow-left
+{
+	margin: 10px 10px 0 150px;
+	color: #7B42F6;
+	font-size: 20px;
+}
+
+.details-header
+{
+	margin: 20px 0 0 20px;
+	color: #205284;
+	font-size: 20px;
+	font-family: "Montserrat";
+	float: left;
+}
+
+.fa-angle-up
+{
+	margin: 20px 10px 0 150px;
+	color: #205284;
+	font-size: 24px;
+}
+
+.kycline
+{
+	margin: 5px 20px;
+	width: 300px;
+	height: 2px;
+	background-color: #C6D0EB;
+}
+
+.form-Name
+{
+	margin: 5px 5px 0 5px;
+}
+
+label
+{
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Montserrat;
+}
+
+#Name
+{
+	margin-top: -3%;
+	height: 33px;
+	color: #205284;
+	background-color: #F0F3F5;
+	border: 1px solid #F0F3F5;
+	border-radius: 4px;
+}
+
+#Add
+{
+	margin-top: -3%;
+	height: 48px;
+	color: #205284;
+	background-color: #F0F3F5;
+	border: 1px solid #F0F3F5;
+	border-radius: 4px;	
+}
+
+#Tax
+{
+	margin-top: -3%;
+	height: 33px;
+	width: 30%;
+	color: #205284;
+	background-color: #F0F3F5;
+	border: 1px solid #F0F3F5;
+	border-radius: 4px;
+}
+
+#GST
+{
+	margin-top: -3%;
+	height: 33px;
+	color: #205284;
+	background-color: #F0F3F5;
+	border: 1px solid #F0F3F5;
+	border-radius: 4px;
+}
+
+.kyc-header
+{
+	margin: 20px 0 0 20px;
+	color: #205284;
+	font-size: 20px;
+	font-family: "Montserrat";
+	float: left;
+}
+
+#angle-icon
+{
+	margin: 22px 10px 0 180px;
+	color: #205284;
+	font-size: 24px;
+}
+
+.kyc-text
+{
+	margin: -2% 0 0 20px;
+	color: #205284;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.kyc-upload
+{
+	margin: 10px 0 0 0;
+}
+
+.identity
+{
+	margin: 0 0 0 5px;
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.upload-text
+{
+	margin: 0 0 0 10px;
+	color: #205284;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.upload
+{
+	padding: 10px;
+	border: 1px solid #205284;
+	border-radius: 4px;
+}
+
+.fa-upload
+{
+	margin: 0 0 0 170px;
+	color: #205284;
+	font-size: 16px;
+	font-style: normal;
+}
+
+.identity-text
+{
+	margin: 0 0 0 10px;
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.kyc-bank
+{
+	margin: 10px 0 0 0;
+}
+
+.bank-header
+{
+	margin: 0 0 0 5px;
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.kyc-pan
+{
+	margin: 60px 0 0 0;
+}
+
+.pan-header
+{
+	margin: 0 0 0 5px;
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.pan-text
+{
+	margin: 0 0 0 10px;
+	color: #205284;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+.pan
+{
+	padding: 10px;
+	border: 1px solid #205284;
+	border-radius: 4px;
+}
+
+.fa-upload
+{
+	margin: 0 0 0 170px;
+	color: #205284;
+	font-size: 16px;
+	font-style: normal;
+}
+
+.pan-cont
+{
+	margin: 0 0 0 10px;
+	color: #C6D0EB;
+	font-size: 14px;
+	font-style: normal;
+	font-family: Montserrat;
+}
+
+/* ======================= FORM SECTION ================================================= */
+
+
+/* ======================= FOOTER SECTION ================================================= */
+
+.footer-section
+{
+	margin-top: -42%;
+	width: 360px;
+	height: 56px;
+	background: #FFFFFF;
+	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.footer-section .icons
+{
+	margin: 15px 40px;
+	text-align: center;
+	display: inline-block;
+}
+
+.footer-section .fa-user-alt
+{
+	color: #7B42F6;
+}
+
+/* ======================= FOOTER SECTION ================================================= */
+
+@media(max-width:500px)
+{
+
+	.footer-section
+	{
+		margin-top: -42%;
+		width: 360px;
+		height: 56px;
+		background: #FFFFFF;
+		box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+	}
+
+	.footer-section .icons
+	{
+		margin: 20px 40px;
+		text-align: center;
+		display: inline-block;
+	}
+
+}

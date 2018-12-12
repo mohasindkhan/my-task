@@ -1,0 +1,343 @@
+/* ======================= TOP SECTION ================================================= */
+
+#profile-page-section
+{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	width: 360px;
+	height: 720px;
+	background-color: #F0F3F5;
+}
+
+.profile-page-top-section
+{
+	width: 360px;
+	height: 120px;
+	background-image: linear-gradient(to right,blue,violet);
+}
+
+.profile-page-top-section .okie
+{
+	padding: 10px 0 0 10px;
+}
+
+.profile-page-top-section .bell
+{
+	padding: 10px 0 0 10px;
+}
+
+.fa-bars
+{
+	font-size: 20px;
+}
+
+.fa-bell
+{
+	margin: 3px 0 0 0;
+	padding-left: 200px;
+	color: #fff;
+	font-size: 26px;
+}
+
+.profile-page-top-section h2
+{
+	margin: 5px;
+	font-family: "Times new roman";
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 24px;
+	color: #fff;
+}
+
+/* ======================= TOP SECTION ================================================= */
+
+
+/* ======================= TOP MID SECTION ================================================= */
+
+.profile-page-top-mid-section
+{
+	margin: -60px 10px 0 10px;
+
+}
+
+.profile-page-top-mid-content
+{
+	width: 344px;
+	height: 120px;
+	background: #FFFFFF;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+	border-radius: 10px;
+}
+
+.edit-cont
+{
+	margin: 0 -10px 0 0;
+	padding: 0;
+	float: right;
+}
+
+.fa-edit
+{
+	color: #7B42F6;
+	height: 18px;
+	width: 18px;
+}
+
+#profile-page-image
+{
+	margin: 10px 0 10px 10px;
+	height: 80px;
+	width: 80px;
+	border: 1px solid #fff;
+	border-radius: 50%;
+}
+
+.profile-page-top-mid-text-header
+{
+	margin: 10px 0 0 10px;
+}
+
+.profile-page-text
+{
+	margin: 10px 5px 0 10px;
+	font-family: "Timew New Roman";
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 20px;
+}
+
+.profile-page-level
+{
+	padding: 3px 15px;
+	font-family: "Timew New Roman";
+	font-size: 14px;
+	color: #212C4F;
+	font-style: normal;
+	background-image: linear-gradient(to right,blue,violet);
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 14px;
+}
+
+.profile-page-locat
+{
+	margin: 5px 5px 5px 8px;
+	font-size: 14px;
+	font-family: "Times New Roman";
+	font-style: normal;
+}
+
+.profile-page-msg
+{
+	margin: 5px 5px 5px 8px;
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 14px;
+
+}
+
+/* ======================= TOP MID SECTION ================================================= */
+
+
+/* ======================= MID SECTION ================================================= */
+
+.profile-page-mid-section .mid-text
+{
+	padding: 20px 0 0 10px;
+	font-family: Montserrat;
+	color: #205284;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+/* ======================= MID SECTION ================================================= */
+
+
+/* ======================= YOUTUBE SECTION ================================================= */
+
+.youtube-channel-section
+{
+	margin: 20px 0;
+	width: 360px;
+	height: 48px;
+	background: #E32222;
+}
+
+.youtube
+{
+	margin: 0 10px 0 0;
+	padding: 0 0 0 8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 40px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.users, .views, .watch
+{
+	margin-left: 10px;
+	text-align: center;
+}
+
+.fa-user-friends, .fa-eye, .fa-video
+{
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+
+.users-text, .views-text, .watch-text
+{
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+
+/* ======================= YOUTUBE SECTION ================================================= */
+
+
+/* ======================= INSTA SECTION ================================================= */
+
+.instagram-section
+{
+	margin: 30px 0;
+	width: 360px;
+	height: 48px;
+	background: linear-gradient(165.35deg, #B01EFF 0%, #E1467C 100%);
+}
+
+.insta
+{
+	margin: 0 10px 0 0;
+	padding: 0 0 0 8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 40px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.friends
+{
+	margin-left: 30px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+
+.picture
+{
+	margin-left: 20px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+
+.fa-user-friends, .fa-image
+{
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+
+.friend, .pic
+{
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+
+/* ======================= INSTA SECTION ================================================= */
+
+
+/* ======================= ADD MORE SECTION ================================================= */
+
+.add-more-content
+{
+	text-align: center;
+}
+
+.add-more
+{
+	padding: 8px 50px;
+	border: 1px solid #212C4F;
+	border-radius: 20px;
+	border: 1px solid #212C4F;
+	box-sizing: border-box;
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 20px;
+	text-align: center;
+	color: #212C4F;
+}
+
+.add-more-content a
+{
+	text-decoration: none;
+}
+
+.add-more-content a:hover
+{
+	color: #212C4F;
+}
+
+/* ======================= ADD MORE SECTION ================================================= */
+
+
+/* ======================= FOOTER SECTION ================================================= */
+
+.footer-section
+{
+	margin-top: 80%;
+	width: 360px;
+	height: 56px;
+	background: #FFFFFF;
+	box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.footer-section .icons
+{
+	margin: 15px 40px;
+	text-align: center;
+	display: inline-block;
+}
+
+.footer-section .fa-user-alt
+{
+	color: #7B42F6;
+}
+
+/* ======================= FOOTER SECTION ================================================= */
+
+@media(max-width:500px)
+{
+
+	.footer-section
+	{
+		margin-top: 80%;
+		width: 360px;
+		height: 56px;
+		background: #FFFFFF;
+		box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+	}
+
+	.footer-section .icons
+	{
+		margin: 20px 40px;
+		text-align: center;
+		display: inline-block;
+	}
+
+}
